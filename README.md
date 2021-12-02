@@ -1,7 +1,6 @@
 # Quart-Discord
-[![PyPI](https://img.shields.io/pypi/v/Quart-Discord?style=for-the-badge)](https://pypi.org/project/Quart-Discord/) [![Read the Docs](https://img.shields.io/readthedocs/quart-discord?style=for-the-badge)](https://quart-discord.readthedocs.io/en/latest/) 
 
-Discord OAuth2 extension for Quart.
+Discord OAuth2 extension for Quart. Customized for Pycord
 
 
 ### Installation
