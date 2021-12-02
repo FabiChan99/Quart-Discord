@@ -22,7 +22,7 @@ requirements = [
     'oauthlib',
     'Async-OAuthlib',
     'cachetools',
-    'git+https://github.com/Pycord-Development/pycord',
+    'git+https://github.com/Pycord-Development/pycord/',
 ]
 
 
