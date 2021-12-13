@@ -5,6 +5,7 @@ Discord OAuth2 extension for Quart. Customized for Pycord
 
 ### Installation
 To install current latest release you can use following command:
+NOTE: Before installing this Uninstall discord.py
 ```sh
 python3 -m pip install git+https://github.com/FabiChan99/Quart-Discord/
 ```
